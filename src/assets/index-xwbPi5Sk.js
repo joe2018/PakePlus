@@ -1,0 +1,1 @@
+import{u as a,a as e,o as n,c as s,b as o}from"./index-DffehwHv.js";const c={class:"app"},t={__name:"index",setup(t){const i=a(),l=e();return n((async()=>{console.log("onMounted"),i.checkLogin().then((a=>{l.replace("/main")})).catch((a=>{l.replace("/login")}))})),(a,e)=>(o(),s("div",c," 加载中 "))}};export{t as default};
